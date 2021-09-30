@@ -1,0 +1,13 @@
+/* Tuning and centering the Bars orientation. */
+
+.array-container {
+    position: absolute;
+    left: 25px;
+    top: 60px; 
+  }
+  
+  .array-bar {
+    width: 2px;
+    display: inline-block;
+    margin: 0 1.1px;
+  }
