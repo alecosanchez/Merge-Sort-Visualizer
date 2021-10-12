@@ -7,7 +7,7 @@ Conceptually, a merge sort works as follows:
 
 
 Visual Representation:
-https://media.geeksforgeeks.org/wp-content/cdn-uploads/Merge-Sort-Tutorial.png![image](https://user-images.githubusercontent.com/64794974/137033759-48eeddec-6afc-4597-977d-9d5594134045.png)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.programiz.com%2Fdsa%2Fmerge-sort&psig=AOvVaw3FDQEqOCJU1kYG1sWlfp3_&ust=1634162201550000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjalODuxfMCFQAAAAAdAAAAABAD
 
 In the project directory, you can run:
 
